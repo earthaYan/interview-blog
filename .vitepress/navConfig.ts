@@ -1,0 +1,27 @@
+import { DefaultTheme } from "vitepress";
+
+// https://vitepress.dev/reference/default-theme-config
+export const navConfig: DefaultTheme.NavItem[] = [
+  {
+    text: "web开发基础",
+    items: [
+      {
+        text: "CSS",
+        link: "/css",
+      },
+      {
+        text: "ES6",
+        link: "/es6",
+      }
+    ],
+  },
+  {
+    text: "框架",
+    items: [
+      {
+        text: "react",
+        link: "/react",
+      },
+    ],
+  },
+];
