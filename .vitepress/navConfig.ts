@@ -12,7 +12,7 @@ export const navConfig: DefaultTheme.NavItem[] = [
       {
         text: "ES6",
         link: "/es6",
-      }
+      },
     ],
   },
   {
@@ -23,5 +23,9 @@ export const navConfig: DefaultTheme.NavItem[] = [
         link: "/react",
       },
     ],
+  },
+  {
+    text: "软技能",
+    link: "/soft/index",
   },
 ];
