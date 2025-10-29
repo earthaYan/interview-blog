@@ -13,6 +13,10 @@ export const navConfig: DefaultTheme.NavItem[] = [
         text: "ES6",
         link: "/es6",
       },
+      {
+        text: "其他",
+        link: "/other",
+      },
     ],
   },
   {
