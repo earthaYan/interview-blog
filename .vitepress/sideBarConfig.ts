@@ -72,7 +72,9 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
       items: [
         { text: "目录页", link: "/other/" },
         { text: "http协议", link: "/other/001" },
-        { text: "git", link: "/other/002" },
+        { text: "git操作", link: "/other/002" },
+        { text: "chrome调试", link: "/other/003" },
+        { text: "工程化基础", link: "/other/004" },
       ],
     },
   ],
