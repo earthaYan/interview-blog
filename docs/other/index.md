@@ -1,3 +1,8 @@
 - [http](/other/001)
 - [git](/other/002)
 - [chrome 调试](/other/003)
+- [工程化基础](/other/004)
+- [Linux](/other/005)
+- [浏览器工作流程](/other/006)
+- [前端性能优化](/other/007)
+- [前端安全](/other/008)
