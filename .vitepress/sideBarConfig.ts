@@ -94,8 +94,9 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
       text: "运行环境",
       items: [
         { text: "浏览器加载过程", link: "/other/006" },
-        { text: "前端性能优化", link: "/other/007" },
+        { text: "前端性能优化1", link: "/other/007" },
         { text: "前端安全", link: "/other/008" },
+        { text: "前端性能优化2", link: "/other/009" },
       ],
     },
   ],
