@@ -56,6 +56,10 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           text: "事件",
           link: "/es6/007",
         },
+        {
+          text: "TypeScript(1)",
+          link: "/es6/008",
+        },
       ],
     },
   ],
