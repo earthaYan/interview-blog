@@ -83,6 +83,10 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           text: "Fiber架构",
           link: "/react/003",
         },
+        {
+          text: "React 事件机制",
+          link: "/react/004",
+        },
       ],
     },
   ],
