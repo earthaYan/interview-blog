@@ -68,8 +68,20 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
       text: "react知识库",
       items: [
         {
-          text: "DEMO1-react",
-          link: "/react",
+          text: "react目录页",
+          link: "/react/",
+        },
+        {
+          text: "虚拟DOM",
+          link: "/react/001",
+        },
+        {
+          text: "JSX以及组件类型",
+          link: "/react/002",
+        },
+        {
+          text: "Fiber架构",
+          link: "/react/003",
         },
       ],
     },
@@ -102,6 +114,7 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
         { text: "前端安全", link: "/other/008" },
         { text: "前端性能优化2", link: "/other/009" },
         { text: "前端性能优化3", link: "/other/010" },
+        { text: "前端兼容性", link: "/other/011" },
       ],
     },
   ],
