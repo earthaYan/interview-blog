@@ -87,6 +87,10 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           text: "React 事件机制",
           link: "/react/004",
         },
+        {
+          text: "React 状态管理",
+          link: "/react/005",
+        },
       ],
     },
   ],
