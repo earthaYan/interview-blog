@@ -32,4 +32,8 @@ export const navConfig: DefaultTheme.NavItem[] = [
     text: "软技能",
     link: "/soft/index",
   },
+  {
+    text: "项目复盘",
+    link: "/projects/",
+  },
 ];

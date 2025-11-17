@@ -91,6 +91,10 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           text: "React 状态管理",
           link: "/react/005",
         },
+        {
+          text: "React Hook",
+          link: "/react/006",
+        },
       ],
     },
   ],
@@ -133,6 +137,37 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
         {
           text: "宝洁八大问",
           link: "/soft/index",
+        },
+      ],
+    },
+  ],
+  "/projects/": [
+    {
+      text: "项目复盘",
+      items: [
+        {
+          text: "目录页",
+          link: "/projects/index",
+        },
+        {
+          text: "组件库项目(一)",
+          link: "/projects/001",
+        },
+        {
+          text: "组件库项目(二)",
+          link: "/projects/002",
+        },
+        {
+          text: "DTLE项目(一)",
+          link: "/projects/003",
+        },
+        {
+          text: "DTLE项目(二)",
+          link: "/projects/004",
+        },
+        {
+          text: "DTLE项目(三)",
+          link: "/projects/005",
         },
       ],
     },
