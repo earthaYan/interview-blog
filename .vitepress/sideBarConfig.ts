@@ -150,7 +150,7 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
         { text: "前端安全", link: "/other/008" },
         { text: "前端性能优化2", link: "/other/009" },
         { text: "前端性能优化3", link: "/other/010" },
-        { text: "前端兼容性", link: "/other/011" },
+        { text: "核心 web 指标", link: "/other/011" },
       ],
     },
   ],
