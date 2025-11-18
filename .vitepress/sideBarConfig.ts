@@ -95,6 +95,30 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           text: "React Hook",
           link: "/react/006",
         },
+        {
+          text: "useEffect",
+          link: "/react/007",
+        },
+        {
+          text: "useCallback和useMemo",
+          link: "/react/008",
+        },
+        {
+          text: "useRef",
+          link: "/react/009",
+        },
+        {
+          text: "forwardRef",
+          link: "/react/010",
+        },
+        {
+          text: "React18 hooks",
+          link: "/react/011",
+        },
+        {
+          text: "React19新特性",
+          link: "/react/012",
+        },
       ],
     },
   ],
