@@ -119,6 +119,18 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           text: "React19新特性",
           link: "/react/012",
         },
+        {
+          text: "React路由系统",
+          link: "/react/013",
+        },
+        {
+          text: "服务端渲染next.js-2",
+          link: "/react/014",
+        },
+        {
+          text: "服务端渲染next.js-2",
+          link: "/react/015",
+        },
       ],
     },
   ],
