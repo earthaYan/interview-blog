@@ -6,16 +6,20 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
       text: "css知识库",
       items: [
         {
-          text: "网页加载",
+          text: "目录页",
           link: "/css/",
         },
         {
-          text: "选择器",
+          text: "浏览器加载过程",
           link: "/css/001",
         },
         {
-          text: "DEMO2-CSS",
+          text: "css基础",
           link: "/css/002",
+        },
+        {
+          text: "tailwindcss(一)",
+          link: "/css/003",
         },
       ],
     },
@@ -56,9 +60,20 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           text: "事件",
           link: "/es6/007",
         },
+      ],
+    },
+  ],
+  "/ts/": [
+    {
+      text: "TypeScript",
+      items: [
         {
-          text: "TypeScript(1)",
-          link: "/es6/008",
+          text: "目录页",
+          link: "/ts/",
+        },
+        {
+          text: "TypeScript(一)",
+          link: "/ts/001",
         },
       ],
     },
@@ -123,46 +138,16 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           text: "React路由系统",
           link: "/react/013",
         },
-        {
-          text: "服务端渲染next.js-2",
-          link: "/react/014",
-        },
-        {
-          text: "服务端渲染next.js-2",
-          link: "/react/015",
-        },
       ],
     },
   ],
-  "/other/": [
+  "/nextjs/": [
     {
-      text: "总览",
+      text: "nextjs",
       items: [
-        {
-          text: "目录页",
-          link: "/other/",
-        },
-      ],
-    },
-    {
-      text: "开发环境",
-      items: [
-        { text: "http协议", link: "/other/001" },
-        { text: "git操作", link: "/other/002" },
-        { text: "chrome调试", link: "/other/003" },
-        { text: "工程化基础", link: "/other/004" },
-        { text: "Linux", link: "/other/005" },
-      ],
-    },
-    {
-      text: "运行环境",
-      items: [
-        { text: "浏览器加载过程", link: "/other/006" },
-        { text: "前端性能优化1", link: "/other/007" },
-        { text: "前端安全", link: "/other/008" },
-        { text: "前端性能优化2", link: "/other/009" },
-        { text: "前端性能优化3", link: "/other/010" },
-        { text: "核心 web 指标", link: "/other/011" },
+        { text: "目录页面", link: "/nextjs/" },
+        { text: "nextjs(一)", link: "/nextjs/001" },
+        { text: "nextjs(二)", link: "/nextjs/002" },
       ],
     },
   ],
@@ -199,6 +184,77 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
           link: "/projects/010",
         },
       ],
+    },
+  ],
+  "/engineer": [
+    {
+      text: "工程化",
+      items: [
+        { text: "工程化目录页", link: "/engineer" },
+        { text: "webpack", link: "/engineer/001" },
+      ],
+    },
+  ],
+  "/performance": [
+    {
+      text: "性能优化知识库",
+      items: [
+        {
+          text: "目录页",
+          link: "/performance",
+        },
+        {
+          text: "性能优化1",
+          link: "/performance/001",
+        },
+        {
+          text: "性能优化2",
+          link: "/performance/002",
+        },
+        {
+          text: "性能优化3",
+          link: "/performance/003",
+        },
+        {
+          text: "性能优化4",
+          link: "/performance/004",
+        },
+        {
+          text: "性能优化5",
+          link: "/performance/005",
+        },
+        {
+          text: "前端安全",
+          link: "/performance/006",
+        },
+        {
+          text: "chrome调试",
+          link: "/performance/007",
+        },
+      ],
+    },
+  ],
+  "/other/": [
+    {
+      text: "总览",
+      items: [
+        {
+          text: "目录页",
+          link: "/other/",
+        },
+      ],
+    },
+    {
+      text: "开发环境",
+      items: [
+        { text: "http协议", link: "/other/001" },
+        { text: "git操作", link: "/other/002" },
+        { text: "Linux", link: "/other/005" },
+      ],
+    },
+    {
+      text: "运行环境",
+      items: [{ text: "浏览器加载过程", link: "/other/006" }],
     },
   ],
 };

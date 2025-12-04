@@ -3,7 +3,7 @@ import { DefaultTheme } from "vitepress";
 // https://vitepress.dev/reference/default-theme-config
 export const navConfig: DefaultTheme.NavItem[] = [
   {
-    text: "web开发基础",
+    text: "web基础",
     items: [
       {
         text: "CSS",
@@ -14,26 +14,44 @@ export const navConfig: DefaultTheme.NavItem[] = [
         link: "/es6",
       },
       {
+        text: "TypeScript",
+        link: "/ts",
+      },
+      {
         text: "其他",
         link: "/other",
       },
     ],
   },
   {
-    text: "框架",
+    text: "框架生态",
     items: [
       {
         text: "react",
         link: "/react",
       },
+      {
+        text: "nextjs",
+        link: "/nextjs",
+      },
     ],
   },
   {
-    text: "软技能",
-    link: "/soft/index",
+    text: "前端进阶",
+    items: [
+      { text: "工程化", link: "/engineer" },
+      {
+        text: "性能优化",
+        link: "/performance",
+      },
+    ],
   },
   {
-    text: "项目复盘",
+    text: "项目",
     link: "/projects/",
+  },
+  {
+    text: "后端",
+    link: "/backend/",
   },
 ];

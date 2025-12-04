@@ -13,5 +13,3 @@ react 目录
 - [React18 hooks](/react/011)
 - [React19 新特性](/react/012)
 - [React 路由分类](/react/013)
-- [服务端渲染 nextjs-1](/react/014)
-- [服务端渲染 nextjs-2](/react/015)
