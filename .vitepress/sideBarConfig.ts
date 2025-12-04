@@ -166,17 +166,6 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
       ],
     },
   ],
-  "/soft/": [
-    {
-      text: "软技能",
-      items: [
-        {
-          text: "宝洁八大问",
-          link: "/soft/index",
-        },
-      ],
-    },
-  ],
   "/projects/": [
     {
       text: "项目复盘",
@@ -204,6 +193,10 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
         {
           text: "DTLE项目(三)",
           link: "/projects/005",
+        },
+        {
+          text: "构建工具迁移",
+          link: "/projects/010",
         },
       ],
     },
