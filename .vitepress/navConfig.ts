@@ -34,6 +34,10 @@ export const navConfig: DefaultTheme.NavItem[] = [
         text: "nextjs",
         link: "/nextjs",
       },
+      {
+        text: "vue",
+        link: "/vue",
+      },
     ],
   },
   {

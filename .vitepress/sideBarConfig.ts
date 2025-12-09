@@ -141,6 +141,25 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
       ],
     },
   ],
+  "/vue": [
+    {
+      text: "vue知识库",
+      items: [
+        {
+          text: "目录页",
+          link: "/vue/",
+        },
+        {
+          text: "vue2基本使用",
+          link: "/vue/001",
+        },
+        {
+          text: "vue2组件使用",
+          link: "/vue/002",
+        },
+      ],
+    },
+  ],
   "/nextjs/": [
     {
       text: "nextjs",
