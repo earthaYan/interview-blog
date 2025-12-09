@@ -176,7 +176,7 @@ export const sideBarConfig: DefaultTheme.Sidebar = {
       items: [
         {
           text: "目录页",
-          link: "/projects/index",
+          link: "/projects/",
         },
         {
           text: "组件库项目(一)",
