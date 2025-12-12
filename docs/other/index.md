@@ -1,4 +1,4 @@
-- [http](/other/001)
+- [安装新依赖项目报错](/other/001)
 - [git](/other/002)
 - [Linux](/other/005)
 - [浏览器工作流程](/other/006)
