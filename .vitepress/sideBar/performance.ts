@@ -1,0 +1,22 @@
+export const performanceArticles = [
+  {
+    text: "目录页",
+    link: "/performance",
+  },
+  { text: "核心 web 性能指标", link: "/performance/001" },
+  { text: "线上复现失败", link: "/performance/002" },
+  { text: "资源提示符", link: "/performance/003" },
+  { text: "缓存机制", link: "/performance/004" },
+  { text: "CDN", link: "/performance/005" },
+  { text: "图片资源优化", link: "/performance/006" },
+  { text: "svg 雪碧图", link: "/performance/007" },
+  { text: "字体优化", link: "/performance/008" },
+  { text: "网络协议", link: "/performance/009" },
+  { text: "减少重排和重绘", link: "/performance/010" },
+  { text: "动画的 css 优化", link: "/performance/011" },
+  { text: "骨架屏", link: "/performance/012" },
+  { text: "tree shaking", link: "/performance/013" },
+  { text: "优化长任务", link: "/performance/014" },
+  { text: "长连接-SSE", link: "/performance/015" },
+  { text: "长连接-websocket", link: "/performance/016" },
+];
