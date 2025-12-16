@@ -5,3 +5,4 @@ export * from "./other";
 export * from "./projects";
 export * from "./nextjs";
 export * from "./css";
+export * from "./es6";
