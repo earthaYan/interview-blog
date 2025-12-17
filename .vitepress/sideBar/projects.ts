@@ -27,4 +27,14 @@ export const projectArticles = [
     text: "构建工具迁移",
     link: "/projects/010",
   },
+  {
+    text: "大屏项目",
+    link: "/projects/011",
+  },
+  { text: "大屏项目 react(一)", link: "/projects/012" },
+  { text: "大屏项目 react(二)", link: "/projects/013" },
+  { text: "大屏项目 react(三)", link: "/projects/014" },
+  { text: "大屏项目 vue(一)", link: "/projects/015" },
+  { text: "大屏项目 vue(二)", link: "/projects/016" },
+  { text: "大屏项目 vue(三)", link: "/projects/017" },
 ];
